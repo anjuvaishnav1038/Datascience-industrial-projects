@@ -1,0 +1,93 @@
+
+{
+  "first_name": "Tanya",
+  "last_name": "Dhingra",
+  "email": "tanyadhingra186@gmail.com",
+  "phone_no": "+919901128354",
+  "address": "Delhi, India",
+  "education": [
+    {
+      "course": "Post Graduate Program in Data Science Engineering - AI & ML",
+      "institute": "Great Lakes Institute of Management",
+      "passing_out_date": "01-2025"
+    },
+    {
+      "course": "Master of Computer Applications (M.C.A.)-Software Engineering",
+      "gpa": "8.97",
+      "institute": "University School of Information, Communication and Technology, GGSIPU",
+      "passing_out_date": "07-2023"
+    },
+    {
+      "course": "Bachelor of Science (B.Sc.) - Computer Science",
+      "gpa": "7.95",
+      "institute": "Maitreyi College, Delhi University",
+      "passing_out_date": "07-2021"
+    }
+  ],
+  "skills": [
+    "Tableau",
+    "Power BI",
+    "MySQL",
+    "MongoDB",
+    "IBM OpenPages",
+    "MS Office Suite (Excel, PowerPoint, Access)",
+    "Python",
+    "R",
+    "SQL",
+    "Statistical Analysis",
+    "Data Visualization",
+    "Data Analysis"
+  ],
+  "experience": [
+    {
+      "job_title": "Data Analyst",
+      "duration": "09-2022 to 01-2025",
+      "location": "Delhi, India"
+    },
+    {
+      "job_title": "Python Developer Intern",
+      "duration": "01-2024 to 02-2024",
+      "location": "Delhi, India"
+    },
+    {
+      "job_title": "Data Analyst Intern",
+      "duration": "02-2021 to 04-2021",
+      "location": "Delhi, India"
+    }
+  ],
+  "certifications": [
+    "Google Data Analytics Professional Certification",
+    "Alteryx Designer Core Certification (Ongoing)",
+    "IBM Data Science Professional Certificate (Coursera)"
+  ],
+  "main_projects": [
+    {
+      "project_name": "Anomaly detection for Metaverse dataset",
+      "description": "Analyzed metaverse transactional data using Python, machine learning models, and statistical techniques to predict user engagement, achieving high accuracy and actionable insights for improved retention."
+    },
+    {
+      "project_name": "Amazon global dashboard using POWER BI",
+      "description": "Built a Power BI dashboard for Amazon's global operations, analyzing sales, profits, churn, and returns, enabling real-time insights and actionable strategies to boost performance."
+    },
+    {
+      "project_name": "Resource Tracking Tool",
+      "description": "Streamlined resource management and time-tracking using Alteryx."
+    },
+    {
+      "project_name": "Wine Quality Analysis using MCDM",
+      "description": "Implemented Multi-Criteria Decision Making (MCDM) algorithms to evaluate wine quality, analyzing 1,599 samples based on 11 chemical features."
+    },
+    {
+      "project_name": "Skittles Website/App Development",
+      "description": "Led the full-stack development of a web/app platform for Skittles, improving user engagement by 30% through enhanced UI/UX design and 10+ interactive features."
+    },
+    {
+      "project_name": "COVID-19 Impact Analysis using Python",
+      "description": "Analyzed 2 lakh+ data points to study COVID-19's impact across regions, employing Python libraries (Pandas, Matplotlib) to visualize trends and derive actionable insights."
+    },
+    {
+      "project_name": "Retrieval-Augmented Generation (RAG) Based Search Tool",
+      "description": "Developed a RAG-based search tool, enhancing retrieval accuracy by 25% and improving response relevance across 10,000+ query samples."
+    }
+  ]
+}
